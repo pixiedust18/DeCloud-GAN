@@ -22,5 +22,5 @@ peak signal to noise ratio (PSNR) and structural similarity index
 and target images.
 
 This work has been accepted for presentation in the International Conference on Computational Intelligence and Intelligent Systems, 2021, but is not available online yet.
-Find the paper here: <br> 
+You can find the paper here: <br> 
 https://drive.google.com/file/d/1Ov3QoAMAGKm8lRhYkPiC536epE_dSD0U/view?usp=sharing
